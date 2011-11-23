@@ -1,0 +1,13 @@
+Kamus inggeris ke indonesia dan indonesia ke inggeris dalam Command line interface, Detail fitur-fitur dari aplikasi ini adalah sebagai berikut:
+
+1. Cross platform (dicoba pada Ubuntu(11.04), MacOsX 10.6, Windows(7 dan XP))
+
+2. Setiap kata yang dicari dapat dijadikan OpenTeacher file untuk dapat dihafal kemudian.
+
+3. Dapat ditampilkan dalam mode interaktif sehingga memudahkan dalam pencarian kata selanjutnya atau hanya mencari satu kata saja.
+
+4. Database kamus diambil dari gkamus.
+
+5. Jika ada kata yang tidak terdapat pada database yang disediakan, maka kata tersebut dapat dicari pada google translate.
+
+6. Jika kosakata baru (dari google translate) ditemukan maka akan disimpan pada database untuk mengantisipasi pencarian kata yang sama sehingga tidak perlu mencari di GT lagi.
